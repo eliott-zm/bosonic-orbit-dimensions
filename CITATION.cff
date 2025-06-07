@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: bosonic-orbit-dimensions
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eliott Z.
+    family-names: Mamon
+    email: eliott.mamon@lip6.fr
+    affiliation: 'LIP6, Sorbonne Université'
+    orcid: 'https://orcid.org/0009-0003-9186-2019'
+repository-code: 'https://github.com/eliott-zm/bosonic-orbit-dimensions'
+abstract: >-
+  Compute orbit dimensions under sub-universal unitary
+  groups of quantum optics such as Linear or Gaussian
+  optics.
+license: MIT
+date-released: '2025-06-07'
